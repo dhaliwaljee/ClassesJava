@@ -1,6 +1,6 @@
 package org.kd.singh.database;
 
-public class ColumnInfo {
+public class ColumnProperties {
 	private String tableName;
 	private String columnName;
 	private String ordinalPosition;
