@@ -33,7 +33,7 @@ public class TableProperties {
 	/**
 	 * @return the tableRows
 	 */
-	public int getTableRows() {
+	public Integer getTableRows() {
 		return tableRows;
 	}
 	/**
